@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
         View.OnClickListener onClOk = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                myText.setText("Нажата кнопка ОК");
+                myText.setText("вадфафаодфвоад кнопка ОК");
             }
         };
 
